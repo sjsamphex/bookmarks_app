@@ -1,0 +1,25 @@
+{
+  "name": "bookmarks_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjsamphex/bookmarks_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjsamphex/bookmarks_app/issues"
+  },
+  "homepage": "https://github.com/sjsamphex/bookmarks_app#readme",
+  "dependencies": {
+    "pg": "^8.4.2",
+    "sequelize": "^6.3.5"
+  }
+}
